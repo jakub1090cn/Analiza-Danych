@@ -74,9 +74,6 @@ Projekt składa się z następujących głównych kroków:
 
 
   
-
-Ten projekt jest dostępny na licencji \[wpisz rodzaj licencji\].
-
 ---
 
 **Dokument został utworzony za pomocą edytora tekstowego [edtr.pl](https://edtr.pl)**
