@@ -1,8 +1,8 @@
-\# Supermarket Sales Analysis
+# Supermarket Sales Analysis
 
   
 
-\## Opis projektu
+## Opis projektu
 
   
 
@@ -10,7 +10,7 @@ Projekt dotyczy analizy eksploracyjnej danych z zestawu danych "Supermarket Sale
 
   
 
-\## Zestaw danych
+## Zestaw danych
 
   
 
@@ -18,7 +18,7 @@ Zestaw danych zawiera informacje o sprzedaży w supermarketach, takie jak dane d
 
   
 
-\## Struktura projektu
+## Struktura projektu
 
   
 
@@ -26,55 +26,52 @@ Projekt składa się z następujących głównych kroków:
 
   
 
-1\. \*\*Importowanie danych:\*\* Wczytanie danych z pliku CSV do odpowiednich struktur danych.
+1. **Importowanie danych:** Wczytanie danych z pliku CSV do odpowiednich struktur danych.
 
   
 
-2\. \*\*Czyszczenie danych:\*\* Sprawdzenie i usunięcie ewentualnych duplikatów, brakujących wartości oraz poprawa formatów danych.
+2. **Czyszczenie danych:** Sprawdzenie i usunięcie ewentualnych duplikatów, brakujących wartości oraz poprawa formatów danych.
 
   
 
-3\. \*\*Analiza eksploracyjna:\*\* Przeprowadzenie analizy statystycznej danych, generowanie wykresów i podsumowań w celu zidentyfikowania trendów, wzorców i anomalii.
+3. **Analiza eksploracyjna:** Przeprowadzenie analizy statystycznej danych, generowanie wykresów i podsumowań w celu zidentyfikowania trendów, wzorców i anomalii.
 
   
 
-4\. \*\*Wizualizacja:\*\* Stworzenie wykresów i grafik prezentujących wyniki analizy w czytelny sposób.
+4. **Wizualizacja:** Stworzenie wykresów i grafik prezentujących wyniki analizy w czytelny sposób.
 
   
 
-5\. \*\*Wnioski:\*\* Sformułowanie wniosków na podstawie przeprowadzonej analizy, odpowiedzi na pytania biznesowe.
+5. **Wnioski:** Sformułowanie wniosków na podstawie przeprowadzonej analizy, odpowiedzi na pytania biznesowe.
 
   
 
-\## Jak używać projektu
+## Jak używać projektu
 
   
 
-1\. \*\*Wymagania:\*\* Upewnij się, że masz zainstalowane wszystkie wymagane biblioteki, które są wymienione w pliku \`requirements.txt\`.
+1. **Wymagania:** Upewnij się, że masz zainstalowaną bibliotekę pandas.
 
   
 
-2\. \*\*Pobierz dane:\*\* Pobierz dane ze źródła Kaggle i umieść plik CSV w folderze projektu.
+2. **Pobierz dane:** Pobierz dane ze źródła Kaggle i umieść plik CSV w folderze projektu.
 
   
 
-3\. \*\*Uruchom analizę:\*\* Uruchom skrypty w odpowiedniej kolejności, zaczynając od importowania danych, a kończąc na generowaniu wniosków.
+3. **Uruchom analizę:** Uruchom skrypty w odpowiedniej kolejności, zaczynając od importowania danych, a kończąc na generowaniu wniosków.
 
   
 
-4\. \*\*Dostosuj analizę:\*\* Jeśli chcesz dostosować analizę do własnych potrzeb, dostosuj parametry i funkcje w plikach skryptowych.
+4. **Dostosuj analizę:** Jeśli chcesz dostosować analizę do własnych potrzeb, dostosuj parametry i funkcje w plikach skryptowych.
 
   
 
-\## Autor
+## Autor
 
   
 
-\[Twoje Imię i Nazwisko\]
+[Jakub Cymerman]
 
-  
-
-\## Licencja
 
   
 
