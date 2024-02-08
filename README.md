@@ -10,9 +10,9 @@ Projekt dotyczy analizy eksploracyjnej danych z zestawu danych "Supermarket Sale
 
   
 
-## Zestaw danych
+## Zestaw danych 
 
-  
+https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales/data
 
 Zestaw danych zawiera informacje o sprzedaży w supermarketach, takie jak dane dotyczące produktów, klientów, lokalizacji i czasu. Dane są podzielone na kilka kategorii, co umożliwia szeroką analizę różnych aspektów działalności supermarketów.
 
@@ -68,12 +68,7 @@ Projekt składa się z następujących głównych kroków:
 
 ## Autor
 
-  
 
 [Jakub Cymerman]
 
 
-  
----
-
-**Dokument został utworzony za pomocą edytora tekstowego [edtr.pl](https://edtr.pl)**
